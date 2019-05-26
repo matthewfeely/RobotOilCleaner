@@ -1,0 +1,4 @@
+robot\domain\Message.class
+robot\service\RobotServiceImpl.class
+robot\service\RobotService.class
+robot\domain\RobotResults.class
