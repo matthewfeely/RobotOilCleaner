@@ -9,14 +9,11 @@ import java.awt.Point;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.jboss.logging.Logger;
 import org.junit.jupiter.api.Test;
 
 import robot.domain.RobotCleaner;
 
 class RobotCleanerTest {
-
-	private final static Logger LOGGER = Logger.getLogger(RobotCleaner.class);
 	
 	@Test
 	void testValidDirections() throws IllegalArgumentException {
